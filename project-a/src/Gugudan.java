@@ -21,6 +21,7 @@ public class Gugudan {
 		//test
 		//test2
 		//test3
+		//test4
 		for (int j = 1; j <= 9; j++) {
 			System.out.println(i + " x " + j + " = " + i * j);
 		}
